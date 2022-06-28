@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "218323481626",
+    "firebase_url": "https://lifetree-2-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "lifetree-2",
+    "storage_bucket": "lifetree-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218323481626:android:060a4d3d8bb4a31dbf0da3",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218323481626-59b1v0726loas23ii615sl33a8adu8jn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0xPN2K8T0ViHcEy-n-txUJz0IzdWlkvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218323481626-59b1v0726loas23ii615sl33a8adu8jn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
